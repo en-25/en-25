@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hiee there 👋👻 ![profile views](https://profile-counter.glitch.me/en-25/count.svg)
+## README of Nitesh
+<details open>
+ <summary><b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=en-25&count_private=true&show_icons=true&theme=tokyonight&line_height=25">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=en-25&layout=compact&theme=midnight-purple">
+</p>
+</details>
+<br>
 
-<!--
-**en-25/en-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Social
+<p align="center"><img src="https://lanyard-profile-readme.vercel.app/api/795547838767300648"></p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><strong>
+<h3 align="center">reach me ~</h3>
+<p align="center"><a href="https://discord.com/users/795547838767300648">Discord</a> | <a href="https://www.instagram.com/__the_game_is_on_">Instagram</a> | <a href="https://twitter.com/notanerd_5">Twitter</a></strong></p>
+<br>
