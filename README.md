@@ -19,7 +19,7 @@
 <br>
 
 ## Currently listening
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rkqruaxwvfyzbf6g7x2u6xhb6i&cover_image=true&theme=default&bar_color=6421b5&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31rkqruaxwvfyzbf6g7x2u6xhb6i&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rkqruaxwvfyzbf6g7x2u6xhb6i&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31rkqruaxwvfyzbf6g7x2u6xhb6i&redirect=true)
 
 ## Currently listening
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rkqruaxwvfyzbf6g7x2u6xhb6i&cover_image=true&theme=novatorem&bar_color=6421b5&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31rkqruaxwvfyzbf6g7x2u6xhb6i&redirect=true)
