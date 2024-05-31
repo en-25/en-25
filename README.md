@@ -1,4 +1,4 @@
-# Hiee there 👋👻 ![profile views](https://profile-counter.glitch.me/en-25/count.svg)
+# Hiee there 👋👻 ![profile views](https://profile-counter.glitch.me/en-25/count.svg) ![Profile Views](https://komarev.com/ghpvc/?username=en-25&label=Profile%20views&color=e64387&style=for-the-badge)
 ## README of Nitesh
 <details open>
  <summary><b>My Github Stats</b>: </summary>
@@ -15,7 +15,7 @@
 
 <p align="center"><strong>
 <h3 align="center">reach me ~</h3>
-<p align="center"><a href="https://discord.com/users/795547838767300648">Discord</a> | <a href="https://www.instagram.com/__the_game_is_on_">Instagram</a> | <a href="https://twitter.com/notanerd_5">Twitter</a></strong></p>
+<p align="center"><a href="https://discord.com/users/795547838767300648">Discord</a> | <a href="https://www.instagram.com/__the_game_is_on_">Instagram</a> | <a href="https://twitter.com/sherlock_en">Twitter</a></strong></p>
 <br>
 
 ## Currently listening
